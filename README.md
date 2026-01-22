@@ -51,8 +51,7 @@ O projeto foi desenvolvido seguindo os princípios da Lei Geral de Proteção de
 
 ## 📸 Demonstração Visual
 
-### Modelo Relacional (Diagrama)
-*(Espaço para colocar os prints dos diagramas brModelo e Miro)*
+### Modelo Relacional (Diagramas)
 
 <img width="1743" height="777" alt="Mundo Real Miro" src="https://github.com/user-attachments/assets/4b5cf16f-195a-4459-afe3-cae52981576a" />
 
@@ -62,8 +61,10 @@ O projeto foi desenvolvido seguindo os princípios da Lei Geral de Proteção de
 
 
 ### Dashboard de Gestão
-*(Espaço para colocar o print da sua Interface do Airtable)*
-`[Insira sua imagem aqui]`
+
+<img width="1847" height="931" alt="Airtable-Dados" src="https://github.com/user-attachments/assets/9b03e205-5730-4597-8545-f09c60669fe1" />
+
+<img width="1901" height="940" alt="Interface" src="https://github.com/user-attachments/assets/a0407f9a-c42e-4c7f-a85b-af8038cc8eed" />
 
 ---
 
@@ -75,13 +76,15 @@ Como este é um projeto No-Code hospedado em nuvem:
 2.  Os fluxos de entrada de dados ocorrem via **Formulários Públicos**.
 3.  A lógica de automação roda no servidor do Airtable (Trigger: *When record is created* > Action: *Send Email via Gmail*).
 
+Aproveite e dê uma conferida:
+
 https://airtable.com/invite/l?inviteId=invmIg6THqz8PFJhF&inviteToken=3dd3237bcf9bcef03a214c442999f5870d176bb520d9a22036b347dd4c66b6bc&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 
 ---
 
 ## 👩‍💻 Autora
 
-**Gabi**
+**Bruna Gabriela R. Sartor**
 *Estudante de IA e Automação Digital | Bacharel em Direito | Escrevente e Encarregada de Dados*
 
 
