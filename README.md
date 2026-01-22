@@ -54,6 +54,11 @@ O projeto foi desenvolvido seguindo os princípios da Lei Geral de Proteção de
 ### Modelo Relacional (Diagrama)
 *(Espaço para colocar os prints dos diagramas brModelo e Miro)*
 
+<img width="1743" height="777" alt="Mundo Real Miro" src="https://github.com/user-attachments/assets/4b5cf16f-195a-4459-afe3-cae52981576a" />
+
+<img width="1642" height="796" alt="ONG-BRMW conceitual " src="https://github.com/user-attachments/assets/04b16884-0ec7-4e70-bc4d-a7062a211246" />
+
+<img width="1632" height="788" alt="ONG BRMW lógico" src="https://github.com/user-attachments/assets/e7a7bc39-5e88-40c0-8c97-c48539857fc3" />
 
 
 ### Dashboard de Gestão
